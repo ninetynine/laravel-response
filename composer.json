@@ -1,0 +1,35 @@
+{
+  "name": "ninetynine/laravel-response",
+  "description": "A Laravel library to help standardize responses",
+  "type": "library",
+  "license": "LGPL-3.0-only",
+  "keywords": [
+    "helpers",
+    "php",
+    "laravel"
+  ],
+  "homepage": "https://github.com/ninetynine/laravel-response",
+  "support": {
+    "issues": "https://github.com/ninetynine/laravel-response/issues",
+    "source": "https://github.com/ninetynine/laravel-response"
+  },
+  "authors": [
+    {
+      "name": "Dexter Marks-Barber",
+      "email": "dexter@marks-barber.co.uk"
+    }
+  ],
+  "require": {
+    "php": "^7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "NinetyNine\\": "src/NinetyNine/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.x-dev"
+    }
+  }
+}

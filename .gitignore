@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+vendor/
+
+index.php
+composer.lock
+
+.DS_Store
+.env
+
+
